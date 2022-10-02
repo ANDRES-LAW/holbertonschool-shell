@@ -1,2 +1,2 @@
 #!/bin/bash
-mv -u Best School /tmp/u 
+mv [[:upper:]]* /tmp/u 
